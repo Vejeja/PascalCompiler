@@ -1,0 +1,6 @@
+program task;
+var a,b,v:integers;
+
+begin
+	a:=5
+end.
